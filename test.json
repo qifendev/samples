@@ -1,0 +1,95 @@
+{
+    "calendarEvent": {
+        "description": "",
+        "start": "",
+        "end": "",
+        "location": "",
+        "organizer": "",
+        "status": "",
+        "summary": ""
+    },
+    "contactInfo": {
+        "addresses": [
+            {
+                "addressLines": [
+                    ""
+                ],
+                "type": 1
+            }
+        ],
+        "emails": [
+            {
+                "address": "",
+                "body": "",
+                "subject": "",
+                "type": 1
+            }
+        ],
+        "name": {
+            "first": "",
+            "middle": "",
+            "last": "",
+            "prefix": "",
+            "suffix": "",
+            "formattedName": "",
+            "pronunciation": ""
+        },
+        "organization": "",
+        "phones": [
+            {
+                "number": "",
+                "type": 1
+            }
+        ],
+        "title": "",
+        "urls": [
+            ""
+        ]
+    },
+    "displayValue": "",
+    "driverLicense": {
+        "addressCity": "",
+        "addressState": "",
+        "addressStreet": "",
+        "addressZip": "",
+        "birthDate": "",
+        "documentType": "",
+        "expiryDate": "",
+        "firstName": "",
+        "gender": "",
+        "issueDate": "",
+        "issuingCountry": "",
+        "lastName": "",
+        "licenseNumber": "",
+        "middleName": ""
+    },
+    "email": {
+        "address": "",
+        "body": "",
+        "subject": "",
+        "type": 1
+    },
+    "format": 0,
+    "geoPoint": {
+        "latitude": 1.2,
+        "longitude": 1.2
+    },
+    "phone": {
+        "phone": "",
+        "type": 1
+    },
+    "sms": {
+        "phoneNumber": "",
+        "message": ""
+    },
+    "type": 0,
+    "url": {
+        "title": "",
+        "url": ""
+    },
+    "wifi": {
+        "encryptionType": 1,
+        "ssid": "",
+        "password": ""
+    }
+}
